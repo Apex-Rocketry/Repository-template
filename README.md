@@ -25,3 +25,6 @@ On every branch of this template has a readme with more datails
     git push origin orphan_name
     
 ![](print.png)
+
+
+For more information about Git [click here](https://github.com/Apex-Rocketry/git-flight-rules)
